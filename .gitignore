@@ -1,0 +1,11 @@
+src/absent.txt
+main.spec
+*.db
+build/
+dist/
+.idea
+.vscode
+.eggs
+*.egg-info
+__pycache__
+*.log
